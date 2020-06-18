@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "742108049667",
+    "firebase_url": "https://groupchatting-6b864.firebaseio.com",
+    "project_id": "groupchatting-6b864",
+    "storage_bucket": "groupchatting-6b864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742108049667:android:8105fcb01ad6efb8077936",
+        "android_client_info": {
+          "package_name": "com.example.chatgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742108049667-sdsoj6ih0dn2i9himloqths37aiciigp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOl1gMyT4u945MTkS3ZUfEedIkParp90k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742108049667-sdsoj6ih0dn2i9himloqths37aiciigp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
